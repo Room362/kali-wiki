@@ -2,7 +2,7 @@
 
 - - - - - - 
 
-### Live Online Copy: (to be added)
+### Live Online Copy: http://room362.github.io/kali-wiki
 
 You can find a copy of the project online at: 
 ### Offline Use:
