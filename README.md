@@ -2,7 +2,7 @@
 
 - - - - - - 
 
-### Live Online Copy:
+### Live Online Copy: (to be added)
 
 You can find a copy of the project online at: 
 ### Offline Use:
@@ -19,7 +19,7 @@ We realize that everyone has their favorite commands they run. Is your go-to con
 - - - - - -
 Curators:
 
-  * [@tinkerduck](https://twitter.com/tinkerduck) [gimmick:TwitterFollow](@tinkerduck)
+  * [@t1nkerduck](https://twitter.com/t1nkerduck) [gimmick:TwitterFollow](@t1nkerduck)
   * [@mubix](https://twitter.com/mubix) [gimmick:TwitterFollow](@mubix)
   
 If you would like to become a curator, please contact [mubix@hak5.org](mailto:mubix@hak5.org)
