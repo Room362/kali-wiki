@@ -11,8 +11,6 @@ You can find a copy of the project online at:
   2. Open index.html
   3. Most modern browsers don't allow the access of local files from a locally loaded HTML file. On Windows you can use [Mongoose Tiny](http://cesanta.com/downloads.html) or [HFS](http://www.rejetto.com/hfs/) to host the files locally. On OSX and Linux `python -m SimpleHTTPServer` seems to work just fine.
 
-#### Referenced tools can be found here: https://github.com/mubix/post-exploitation (If they aren't built into the OS)
-
 - - - - - -
 #### Submitting Content
 
