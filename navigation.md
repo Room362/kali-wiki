@@ -4,6 +4,7 @@
 
 [Categories]()
 
+  * [Test](test.md)
   * [Information Gathering](infogathering/index.md)
   * [Vulnerability Analysis](vulnanalysis/index.md)
   * [Web Applications](webapp/index.md)
