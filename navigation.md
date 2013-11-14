@@ -4,7 +4,7 @@
 
 [Categories]()
 
-  * [Information Gathering](/infogathering/index.md)
+  * [Information Gathering](infogathering/index.md)
   * [Vulnerability Analysis](vulnanalysis/index.md)
   * [Web Applications](webapp/index.md)
   * [Password Attacks](password/index.md)
